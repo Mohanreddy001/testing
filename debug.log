@@ -1,0 +1,7 @@
+[0309/143031.718:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Welcome\AppData\Local\Temp\scoped_dir5136_31285\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0427/085237.130:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Welcome\AppData\Local\Temp\scoped_dir20980_31717\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0427/203542.532:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Welcome\AppData\Local\Temp\scoped_dir39684_29315\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0516/181427.412:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Welcome\AppData\Local\Temp\scoped_dir75736_460\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0907/211648.003:ERROR:process_info.cc(359)] UncheckedAllocate
+[0907/211648.063:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Welcome\AppData\Local\Temp\scoped_dir46940_22972\Crashpad\reports\c17d3df1-aaa1-4c24-a31c-e9726aae55f6.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[0907/211648.071:ERROR:process_info.cc(359)] UncheckedAllocate
